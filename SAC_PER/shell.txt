@@ -1,0 +1,5 @@
+python train.py env=walker_run seed=1 experiment=update_on_off_ratio8
+python train.py env=walker_run seed=2 experiment=update_on_off_ratio8
+python train.py env=walker_run seed=3 experiment=update_on_off_ratio8
+python train.py env=walker_run seed=4 experiment=update_on_off_ratio8
+python train.py env=walker_run seed=5 experiment=update_on_off_ratio8
