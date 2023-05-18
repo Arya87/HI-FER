@@ -1,7 +1,7 @@
 ## Integrating Human Learning and Reinforcement Learning: A Novel Approach to Agent Training
 
 This repository is the official implementation of **HI-FER** for the DeepMind control experiments.
-Project website: [https://github.com/Arya87/HI-FER](https://sites.google.com/view/hi-fer)
+Project website: https://sites.google.com/view/hi-fer
 
 ### Abstract
 Off-policy Reinforcement Learning (RL) algorithms are known for improving sample efficiency by employing the prior experiences in an experience replay memory. However, most existing off-policy RL algorithms update policies by a single sampling, which fails to fully exploit the data in replay memory. In this paper, a novel algorithm that mimics human learning process is proposed for training RL agents, which is called HI-FER (Human-Inspired Frequent Experience Replay). A parallelized experience replay structure is proposed to improve the generalization ability of RL algorithms by imitating the function of human brain’s compositional computation to derive qualitatively new knowledge. We increase the update frequency of model parameters to enhance the sample efficiency. And to prevent overfitting triggered by multiple updating on limited experiences, a periodic network reset strategy and dynamically memory updating is leveraged by imitating the natural forgetting mechanism of human. Extensive comparison experiments and ablation studies are performed on benchmark environments to evaluate the proposed method. The empirical results demonstrate that HI-FER outperforms the baselines in terms of sample efficiency on state-based (14% improvements) and image-based (51% improvements) tasks from DMControl.
