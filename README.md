@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# HI-FER
-Human-Inspired Frequent Experience Replay
-=======
-<<<<<<< HEAD
 # HI-FER
 Human-Inspired Frequent Experience Replay
 =======
@@ -52,5 +47,3 @@ We thank the  [SAC](https://github.com/denisyarats/pytorch_sac), [CURL](https://
 ### License
 
 The majority of three baselines is licensed under the MIT license, however portions of the project are available under separate license terms: DeepMind is licensed under the Apache 2.0 license.
->>>>>>> 95c574e (first commit)
->>>>>>> 06faaa5 (first commit)
