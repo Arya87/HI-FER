@@ -1,6 +1,3 @@
-# HI-FER
-Human-Inspired Frequent Experience Replay
-=======
 ## Integrating Human Learning and Reinforcement Learning: A Novel Approach to Agent Training
 
 This repository is the official implementation of **HI-FER** for the DeepMind control experiments.
