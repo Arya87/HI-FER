@@ -22,7 +22,7 @@ python train.py task=walker_stand seed=1
 #### State-based tasks
 ```
 # SAC-HIFER
-python train.py env=walker_run seed=1 experiment=defaule
+python train.py env=walker_run seed=1 experiment=default
 ```
 In addition to the above commands, you can also execute 'execute.py' with 'shell.txt' for batch training.
 ```
